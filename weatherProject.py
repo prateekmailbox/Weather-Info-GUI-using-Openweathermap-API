@@ -1,6 +1,3 @@
-"""
-author :  Dev 
-"""
 
 # importing libraries 
 import tkinter as tk
